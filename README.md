@@ -25,7 +25,7 @@ Maybe adding images, links to the videos, expandable cards, search, more stats.
 ## Here's what it looks like
 
 
-![Alt Text](https://media.giphy.com/media/l4Ep9JHajjNTJ4cWQ/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3ohjUQGaleOnToNXC8/giphy.gif)
 
 ## BTW
 Melon is a nickname for Anthony Fantano
