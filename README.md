@@ -1,31 +1,24 @@
 # AppTano
 
 ## Inspiration 
-I enjoy the content Anthony Fantano aka The Needle Drop aka Melon makes and decided
-to use his data as part of a project
+I wanted to make an app the gets data from an api.
 
 ## What it does
-This is an app I created in a hacking session to learn React Native. It pulls review around 100 review scores from:
-https://docs.google.com/spreadsheets/d/1GbGyWVtePH8RZCZd7N3RPDh8m-K6hgO6AyKsAHZpbeQ/edit#gid=0
-an formats them into the app.
+This app gets the current temperature in a zip code and displays it
+The data comes from:
+https://openweathermap.org/current
 
 ## How I built it
-I built it using React and React Native and serpating each piece of the UI into a different components.
+I built it using React and React Native.
 
-## Challenges I ran into
-I've never use any React style framework or JSX before this, so this was a good introduction to these new useful frameworks.
-
-## Accomplishments that I'm proud of
-The app preforms nicely and looks pretty good.
 
 ## What I learned
-The fundementals of React Native
+More about async promises and ES6 syntax.
 ## What's next for AppTano
-Maybe adding images, links to the videos, expandable cards, search, more stats.
+More data, better UI, bug fixes
 ## Here's what it looks like
 
 
-![Alt Text](https://media.giphy.com/media/3ohjUQGaleOnToNXC8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3o6nUZd8NyK2MqkYHC/giphy.gif)
 
-## BTW
-Melon is a nickname for Anthony Fantano
+
