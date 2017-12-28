@@ -1,4 +1,4 @@
-# AppTano
+# WeatherApp
 
 ## Inspiration 
 I wanted to make an app the gets data from an api.
